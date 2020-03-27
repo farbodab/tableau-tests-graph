@@ -34,7 +34,7 @@
           var dates = null
           var country = countries[1]
           var date = null
-          var clen = countries.length - 1
+          var clen = countries.length
 
           for (var i = 0; i < clen; i++) {
             country = countries[i]
